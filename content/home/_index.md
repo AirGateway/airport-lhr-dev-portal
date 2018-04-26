@@ -1,6 +1,6 @@
 ---
 favicon: /images/heathrow-logo.png
-favicon_width: '80'
+favicon_width: '120'
 favicon_height: '40'
 menuapidashboard: API Dashboard
 menueditprofile: Edit profile
